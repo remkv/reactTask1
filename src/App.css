@@ -1,0 +1,20 @@
+.box{
+  box-sizing: border-box;
+  border: 2px solid white;
+  background: blue;
+  
+}
+
+.footer{
+  text-align: center;
+
+}
+h2{
+  text-align: center;
+}
+h6{
+  text-align: center;
+}
+.card-deck {
+  margin: 10px; 
+}
